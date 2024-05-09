@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Homepage - Mitchell Bray</title>
+</head>
+
+<body>
+
+  <h2>Mitchell Bray</h2>
+
+  <h3>Brief Bio</h3>
+  <p>I'm a student in the School of Computing Technologies at RMIT University, Melbourne.
+  In the past I've learnt at Mount Waverly Secondary Collage.</p>
+
+  <h3>Research Interests</h3>
+  <ul>
+    <li>Autonomous Systems</li>
+    <li>Self replicating systems</li>
+    <li>Automated Large scale database management</li>
+    <li>Deep space recon</li>
+    <li>Automated resourse recovery</li>
+  </ul>
+
+  <h4>Personal Intrests</h4>
+  <ul>
+    <li><b>Game development</b></li>
+    <li><b>Reading/Authoring SciFi books</b></li>
+    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Music</a></li>
+  </ul>
+
+  <h3><b><i>Personal Goal</i></b></h3>
+  <ul>
+    <li><i>Helping to create the infrastructure for creating a Dyson Sphere (Unrealistic goal)</i></li>
+  </ul>
+
+</body>
+
+</html>
